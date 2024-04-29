@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rella-freelance
-- 👀 I’m interested in python as a language.
+- 👀 I’m interested in python and Cplusplus language.
 - 🌱 I’m currently learning python for data analysis
 - ☎️ How to reach me out; kairucyrus19@gmail.com, Instagram @tensor_101
 - 😄 Pronouns: He/Him
